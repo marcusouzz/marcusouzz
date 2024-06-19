@@ -5,7 +5,8 @@ Olá, sou <strong>Marcus Vinícius</strong>.
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Analise e desemvolvimento de sistemas na Universidade da Amazônia - UNAMA.
-- 🌱 Aprendendo mais sobre Back-end.
+- 💼 Em busca de minha primeira oportunidade de emprego na área de tecnologia.
+- 🎯 Foco em Back-end.
 
 ## Minhas Skills
 
