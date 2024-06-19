@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=marcusouzz&color=006bed)
 
 ## Sobre mim
 Olá, sou <strong>Marcus Vinícius</strong>.
