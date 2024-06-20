@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=marcusouzz&color=006bed)
 
 ## Sobre mim
-Olá, sou <strong>Marcus Vinícius</strong>.
+Olá, me chamo <strong>Marcus Vinícius</strong>.
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desemvolvimento de Sistemas na Universidade da Amazônia - UNAMA.
